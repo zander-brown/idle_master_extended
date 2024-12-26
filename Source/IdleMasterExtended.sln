@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
@@ -11,6 +10,8 @@ Global
 		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
+		Debug|macOS = Debug|macOS
+		Release|macOS = Release|macOS
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -21,6 +22,10 @@ Global
 		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Release|x86.ActiveCfg = Release|x86
 		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Release|x86.Build.0 = Release|x86
+		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Debug|macOS.ActiveCfg = Debug|Any CPU
+		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Debug|macOS.Build.0 = Debug|Any CPU
+		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Release|macOS.ActiveCfg = Release|Any CPU
+		{D26CAFBB-F684-4E53-BE38-60AAD2531893}.Release|macOS.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
